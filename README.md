@@ -1,2 +1,2 @@
-# fastai_notes
-Notebooks about fastai course on Deep Learning
+# Fast.ai notes
+Notebooks and notes about fastai course on Deep Learning
